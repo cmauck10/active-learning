@@ -1,1 +1,1 @@
-Repo containing notebook and files from active learning research.
+Notebooks from experiments with data annotation via active learning.
